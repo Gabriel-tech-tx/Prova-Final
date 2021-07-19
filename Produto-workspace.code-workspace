@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Kaua e Gabriel\\provafinal"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server\\eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-sever\\zuul-server"
+		},
+		{
+			"name": "venda",
+			"path": "venda\\venda"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
